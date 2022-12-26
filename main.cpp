@@ -14,6 +14,8 @@ int main() {
 
     cout << endl << "Сумма чисел = " << a + b << endl;
 
+    cout << endl << "Разность чисел = " << a - b << endl;
+
     system("pause");
     return 0;
 }

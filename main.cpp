@@ -18,7 +18,11 @@ int main() {
 
     cout << endl << "Разность чисел = " << a - b << endl;
 
+
     cout << endl << "Умножение чисел = " << a * b << endl;
+
+    cout << endl << "Деление чисел = " << a / b << endl;
+
 
     system("pause");
     return 0;
